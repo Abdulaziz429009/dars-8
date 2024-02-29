@@ -1,0 +1,42 @@
+p {
+    background-color: aqua;
+    width: 800px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+    width: 200px;
+    text-align: center;
+}
+
+.id {
+    width: 20px;
+}
+
+td {
+    padding: 10px;
+}
+
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.grey {
+    background-color: rgb(151, 158, 163);
+}
+
+.yellow {
+    background-color: orange;
+}
+
